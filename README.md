@@ -1,6 +1,6 @@
 # Works-in-UW
-Collection of works done in UW for Intro to C and Microprocessors.
-There are four instructions and correspondingly four reports for weekly lab assignment in EE299 Intro to C class.
+Collection of works done in UW for EE299 Intro to C and Microprocessors.
+There are four instructions and correspondingly four reports for weekly lab assignment in EE299 class.
 Here are some instructions of these files.
 - Four instructions to lab assignents are works by Jim Peckol. 
 - Three lab reports present all the results we get when doing experiments on fixed topics.
