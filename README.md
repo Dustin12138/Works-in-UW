@@ -4,7 +4,7 @@ There are four instructions and correspondingly four reports for weekly lab assi
 
 Four instructions to lab assignents are works by Jim Peckol. 
 
-Three lab reports present all the results we get when doing experiments on fixed topics.
+- Three lab reports present all the results we get when doing experiments on fixed topics.
 One other report shows our ideas and test results of the final project.
 
 The instructions PDF files are works of our professor, Jim Peckol.
